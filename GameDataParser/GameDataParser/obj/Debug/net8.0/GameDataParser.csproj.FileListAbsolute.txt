@@ -1,0 +1,14 @@
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.AssemblyInfoInputs.cache
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.AssemblyInfo.cs
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.csproj.CoreCompileInputs.cache
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParser.exe
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParser.deps.json
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParser.runtimeconfig.json
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParser.dll
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\bin\Debug\net8.0\GameDataParser.pdb
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.dll
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\obj\Debug\net8.0\refint\GameDataParser.dll
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.pdb
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\obj\Debug\net8.0\GameDataParser.genruntimeconfig.cache
+C:\Users\mpmau\source\repos\GameDataParser\GameDataParser\obj\Debug\net8.0\ref\GameDataParser.dll

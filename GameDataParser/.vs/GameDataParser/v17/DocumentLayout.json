@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mpmau\\source\\repos\\GameDataParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CE1420-638F-4F25-8CAA-D2A3DDB2C016}|GameDataParser\\GameDataParser.csproj|c:\\users\\mpmau\\source\\repos\\gamedataparser\\gamedataparser\\gamedataparserapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CE1420-638F-4F25-8CAA-D2A3DDB2C016}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\gamedataparserapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CE1420-638F-4F25-8CAA-D2A3DDB2C016}|GameDataParser\\GameDataParser.csproj|c:\\users\\mpmau\\source\\repos\\gamedataparser\\gamedataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CE1420-638F-4F25-8CAA-D2A3DDB2C016}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CE1420-638F-4F25-8CAA-D2A3DDB2C016}|GameDataParser\\GameDataParser.csproj|c:\\users\\mpmau\\source\\repos\\gamedataparser\\gamedataparser\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CE1420-638F-4F25-8CAA-D2A3DDB2C016}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CE1420-638F-4F25-8CAA-D2A3DDB2C016}|GameDataParser\\GameDataParser.csproj|c:\\users\\mpmau\\source\\repos\\gamedataparser\\gamedataparser\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CE1420-638F-4F25-8CAA-D2A3DDB2C016}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameDataParserApp.cs",
+              "DocumentMoniker": "C:\\Users\\mpmau\\source\\repos\\GameDataParser\\GameDataParser\\GameDataParserApp.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\GameDataParserApp.cs",
+              "ToolTip": "C:\\Users\\mpmau\\source\\repos\\GameDataParser\\GameDataParser\\GameDataParserApp.cs",
+              "RelativeToolTip": "GameDataParser\\GameDataParserApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:14:41.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideoGame.cs",
+              "DocumentMoniker": "C:\\Users\\mpmau\\source\\repos\\GameDataParser\\GameDataParser\\VideoGame.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\VideoGame.cs",
+              "ToolTip": "C:\\Users\\mpmau\\source\\repos\\GameDataParser\\GameDataParser\\VideoGame.cs",
+              "RelativeToolTip": "GameDataParser\\VideoGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:11:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\mpmau\\source\\repos\\GameDataParser\\GameDataParser\\Logger.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Logger.cs",
+              "ToolTip": "C:\\Users\\mpmau\\source\\repos\\GameDataParser\\GameDataParser\\Logger.cs",
+              "RelativeToolTip": "GameDataParser\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T01:22:17.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mpmau\\source\\repos\\GameDataParser\\GameDataParser\\Program.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Program.cs",
+              "ToolTip": "C:\\Users\\mpmau\\source\\repos\\GameDataParser\\GameDataParser\\Program.cs",
+              "RelativeToolTip": "GameDataParser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:22:32.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
